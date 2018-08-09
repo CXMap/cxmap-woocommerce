@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: cxmap\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-30 16:10+0300\n"
-"PO-Revision-Date: 2015-09-30 16:10+0300\n"
+"POT-Creation-Date: 2018-08-09 17:30+0300\n"
+"PO-Revision-Date: 2018-08-09 17:30+0300\n"
 "Last-Translator: Arkadiy <a.sedelnikov@gmail.com>\n"
 "Language-Team: joomline.org <support@joomline.org>\n"
 "Language: ru_RU\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: includes/cxmap.class.php:75
 msgid "Settings"
-msgstr "Настройки"
+msgstr "Settings"
 
 #: includes/cxmap.class.php:85 includes/cxmap.class.php:86
 msgid "CXMap"
@@ -28,47 +28,44 @@ msgstr "CXMap"
 
 #: includes/cxmap.class.php:149
 msgid "Settings saved"
-msgstr "Настройки сохранены"
+msgstr "Settings saved"
 
 #: includes/cxmap.class.php:166
 msgid "Error Load Template"
-msgstr "Ошибка подключения шаблона"
+msgstr "Error Loading Template"
 
 #: tmpl/adminform.php:14
 msgid "CXMap Settings"
-msgstr "Настройки CXMap"
+msgstr "CXMap Settings"
 
 #: tmpl/adminform.php:30
 msgid "Hosting support"
-msgstr "Обратитесь в службу техподдержки вашего хостинга."
+msgstr "Please contact your hosting service support""
 
 #: tmpl/adminform.php:39
-msgid "API Key"
-msgstr "API ключ"
+msgid "APP Key"
+msgstr "APP Key"
 
 #: tmpl/adminform.php:39
 msgid "Cluster"
-msgstr "CXMap кластер"
+msgstr "CXMap Cluster"
 
 #: tmpl/adminform.php:61
 msgid "Submit only product_id (not variation_id)"
-msgstr "Передавать только product_id (исключить variation_id)"
+msgstr "Submit only product_id (variation_id excluded)"
 
 #: tmpl/adminform.php:63
 msgid "Yes"
-msgstr "Да"
+msgstr "Yes"
 
 #: tmpl/adminform.php:70
 msgid "No"
-msgstr "Нет"
+msgstr "No"
 
 #: tmpl/adminform.php:82
 msgid "Save Changes"
-msgstr "Сохранить изменения"
+msgstr "Save Changes"
 
 #: tmpl/adminform.php:89
 msgid "Go to CXMap account"
-msgstr "Перейти в аккаунт CXMap"
-
-#~ msgid "Currency to rouble excange rate"
-#~ msgstr "Коэффициент пересчета валюты в рубли"
+msgstr "Go to CXMap account"

@@ -29,7 +29,7 @@ $disable = !$cxmap_plgn_options['only_product_id']? ' checked="checked"' : '';
 
     <table class="form-table">
     <tr valign="top">
-      <th scope="row"><?php echo __("API Key", 'cxmap'); ?></th>
+      <th scope="row"><?php echo __("APP Key", 'cxmap'); ?></th>
       <td>
       <input
         class="regular-text code"

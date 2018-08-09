@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: CXMap
+Plugin Name: cxmap
 Description:
 Version: 1.0.0
 Author: CXMap
@@ -27,5 +27,5 @@ define( 'CXMAP_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 define( 'CXMAP_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 require_once (CXMAP_PLUGIN_DIR . 'includes/cxmap.class.php');
 
-add_action( 'init', array( 'CXMap', 'init' ) );
-load_plugin_textdomain( 'CXMap', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' );
+add_action( 'init', array( 'cxmap', 'init' ) );
+load_plugin_textdomain( 'cxmap', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' );

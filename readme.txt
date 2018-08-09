@@ -1,5 +1,5 @@
 ﻿=== CXMap ===
-Contributors: CXMap
+Contributors: cxmap
 Tags: e-commerce, cxmap, woocommerce, widgets, email campaigns, analytics
 Requires at least: 4.2.0
 Tested up to: 1.7
