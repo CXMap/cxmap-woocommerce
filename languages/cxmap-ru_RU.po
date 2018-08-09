@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cxmap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-30 16:10+0300\n"
+"PO-Revision-Date: 2015-09-30 16:10+0300\n"
+"Last-Translator: Arkadiy <a.sedelnikov@gmail.com>\n"
+"Language-Team: joomline.org <support@joomline.org>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.4\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/cxmap.class.php:75
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/cxmap.class.php:85 includes/cxmap.class.php:86
+msgid "CXMap"
+msgstr "CXMap"
+
+#: includes/cxmap.class.php:149
+msgid "Settings saved"
+msgstr "Настройки сохранены"
+
+#: includes/cxmap.class.php:166
+msgid "Error Load Template"
+msgstr "Ошибка подключения шаблона"
+
+#: tmpl/adminform.php:14
+msgid "CXMap Settings"
+msgstr "Настройки CXMap"
+
+#: tmpl/adminform.php:30
+msgid "Hosting support"
+msgstr "Обратитесь в службу техподдержки вашего хостинга."
+
+#: tmpl/adminform.php:39
+msgid "API Key"
+msgstr "API ключ"
+
+#: tmpl/adminform.php:39
+msgid "Cluster"
+msgstr "CXMap кластер"
+
+#: tmpl/adminform.php:61
+msgid "Submit only product_id (not variation_id)"
+msgstr "Передавать только product_id (исключить variation_id)"
+
+#: tmpl/adminform.php:63
+msgid "Yes"
+msgstr "Да"
+
+#: tmpl/adminform.php:70
+msgid "No"
+msgstr "Нет"
+
+#: tmpl/adminform.php:82
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: tmpl/adminform.php:89
+msgid "Go to CXMap account"
+msgstr "Перейти в аккаунт CXMap"
+
+#~ msgid "Currency to rouble excange rate"
+#~ msgstr "Коэффициент пересчета валюты в рубли"
