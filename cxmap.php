@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: cxmap
-Description:
+Description: Customer Experience Analytics for Growth Hacking
 Version: 1.0.0
 Author: CXMap
 Author URI: http://cxmap.io
