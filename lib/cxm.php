@@ -1,7 +1,7 @@
 <?php
 
 class Cxm {
-  public $debug = true;
+  public $debug = false;
   public $version = '0.0.1';
   public $postData = null;
   public $sessionId = null;
