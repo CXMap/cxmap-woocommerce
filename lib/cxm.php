@@ -2,7 +2,7 @@
 
 class Cxm {
   public $debug = false;
-  public $version = '0.0.1';
+  public $version = '0.0.2';
   public $postData = null;
   public $sessionId = null;
   private $trackerName = 'cxmap-php';
@@ -81,9 +81,9 @@ class Cxm {
     return $this->send('update_person', [], $data, $context, $truePerformedAt);
   }
 
-  private function trackCustom($person, $data = [], $context = [], $truePerformedAt = null) {
-    if (empty($properties['key'])) return false;
-    return $this->send('custom', $properties, $data, $context, $truePerformedAt);
+  private function trackCustom($name, $data = [], $context = [], $truePerformedAt = null) {
+    if (empty($name)) return false;
+    return $this->send($name, null, $data, $context, $truePerformedAt);
   }
 
   private function send($eventName, $properties, $data, $context, $truePerformedAt) {
